@@ -1,4 +1,4 @@
-/*Nicholaus Whites
+/*destroyerasdfdev@gmail.com
  Factorial Project
  9/6/2018*/
 
