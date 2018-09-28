@@ -1,2 +1,2 @@
 # javastuff
-most of my beginning java stuff
+most of my Java code
