@@ -1,3 +1,9 @@
+/*Checkerboard
+  Nicholaus Whites
+  9 28 2018
+*/
+
+
 package checkerboard;
 
 import java.util.Scanner;
